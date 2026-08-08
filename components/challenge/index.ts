@@ -1,0 +1,2 @@
+// Challenge components placeholder
+export {};
